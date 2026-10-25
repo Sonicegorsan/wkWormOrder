@@ -1,0 +1,1276 @@
+[
+  {
+    "path": ".gitmodules",
+    "bytes": 79,
+    "sha256": "c0d8dd5e8c748beb678194ff9b94c1a337c641732435a33c9202db7dba76ec59",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "CMakeLists.txt",
+    "bytes": 1274,
+    "sha256": "b8149f82e33b72070469c5f8bb95c875ed5822cd76ef4dbaa0d0940cc4a7f435",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 473,
+    "sha256": "bd6059c1689534cb0b608255072d4226ce4d720407c366bc27f26883b747ef00",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/API/Memory.h",
+    "bytes": 5170,
+    "sha256": "1de9c40ee2b9721d095e7da7448fb23fda00ebc395cb3440013f7230796111c2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/API/Synchronization.h",
+    "bytes": 5102,
+    "sha256": "0311b13a75e251afb3a8c6bc9ded357920328b1a5603208b1f973315c003da14",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/API/Terminal.h",
+    "bytes": 6826,
+    "sha256": "6c7456fbb95a85dec45ac20b32a8666e5a47b7568a0686ba689a176205db1704",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/API/Thread.h",
+    "bytes": 9013,
+    "sha256": "69f12c4ae6378da8e9888be8d090cf7494dc16f0675d59193768c6371bd4e6bf",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Allocator.h",
+    "bytes": 5254,
+    "sha256": "96d7299df8b3a1d0ce9b73af94f95fcf0e81d3dd455a4c9f0a7bca23b262b87b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/ArgParse.h",
+    "bytes": 6528,
+    "sha256": "edad8645bb633b94f14bbe486da6532253ca491fcb2addadae582330a8390d60",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Bitset.h",
+    "bytes": 17878,
+    "sha256": "404f3034f891a8bf472d316e8b85ef102a94c13fe55b466599625658609bedb5",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Comparison.h",
+    "bytes": 12314,
+    "sha256": "100ae654eed53a5d8dacee26ba62e3cab106d7b57c0ca3e6731735ffe992d24a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Defines.h",
+    "bytes": 15698,
+    "sha256": "ecb06c9be07bf582dfa758f707299556a4c80d9fdcd933e64f5ccb3de2fb0f1f",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Format.h",
+    "bytes": 11403,
+    "sha256": "8b9522fe96cec60635db8bc33bef54bdf66030094a17eb66ceb011a33c21591e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/LibC.h",
+    "bytes": 13812,
+    "sha256": "befbc40a282c81c7ec462dee1480f9249afdbd2fea497cd0ca24a3065ed8d105",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/List.h",
+    "bytes": 21780,
+    "sha256": "c493d8caaed89aa8f6af30ec7f00418989a252ecd1fab7528c01a5c263500157",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Object.h",
+    "bytes": 2834,
+    "sha256": "5181ef50befcbd031752845cf9413519531612b15cfb49dd52e940cba2ca9519",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Status.h",
+    "bytes": 9674,
+    "sha256": "97680f3dd530fb651aa0737af499d74e85430264929797fd56b5f3ef4fc06fee",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/String.h",
+    "bytes": 43108,
+    "sha256": "df93feec554ee681f90d1e08ec7df3a7999a93cd41fec52d59803f0df9b28e55",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Types.h",
+    "bytes": 8274,
+    "sha256": "d69c90232c94fba454b22e8d176e55d39aa03bb0ea966c351b13d4bc515ce4ae",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Vector.h",
+    "bytes": 30052,
+    "sha256": "83f707ca189a0f7670816ced39dd5f1822bb054f1813fab95c54d32463cff4c6",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zycore/Zycore.h",
+    "bytes": 4209,
+    "sha256": "071adba8ceebba0ff7c998715d4a5dd743d291fcb58482ee4ec495a71e8cd3bf",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/ZycoreExportConfig.h",
+    "bytes": 884,
+    "sha256": "5530d3d6f207c2bf3fc9405e827633ca5f5d35a7dcc6cf50b59bc96b78f1e732",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Decoder.h",
+    "bytes": 8460,
+    "sha256": "0c710791973ce941f547b9586d7ec0a21273dc415062c15d70ee3784c9e3ad33",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/DecoderTypes.h",
+    "bytes": 46593,
+    "sha256": "364dd7fd57e5863c2c14b8fb8791b5aa4ac7040efc6e4eb778230279fabfca95",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Formatter.h",
+    "bytes": 46501,
+    "sha256": "ff4f5ee0bd1f2a9ff41b7a8f228f029eb913db667bf161c815a82bf483794a39",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/FormatterBuffer.h",
+    "bytes": 11169,
+    "sha256": "598e2222aaf3f9a53c3b0bdd8d3f8e78d12239875181b5c0fdd8daad41b76b76",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Generated/EnumISAExt.h",
+    "bytes": 2274,
+    "sha256": "d7093c75f6a5d038e4e8f17015c3b3c010a1f385e4908659a51421057e401b53",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Generated/EnumISASet.h",
+    "bytes": 5188,
+    "sha256": "764a89193a8903fa7457ac69c3b406959d8e133a6b4aa0039f98a0c795271b9e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Generated/EnumInstructionCategory.h",
+    "bytes": 3133,
+    "sha256": "69bc0cff97cfc1cf3f69eb48f2786439f48822afc6b89a33ea105d083953c9a0",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Generated/EnumMnemonic.h",
+    "bytes": 46023,
+    "sha256": "1323ae9fe491e25f1356b47551f498dfeef35a3940245d76a088661dc4a5b64f",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Generated/EnumRegister.h",
+    "bytes": 7403,
+    "sha256": "f3e99760a23569961463b70e790f0dbdca6b992ac8da9547c93bd03d7bf11ba3",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Internal/DecoderData.h",
+    "bytes": 10672,
+    "sha256": "ec1533c0487c13b06efbb29ce556afb24f23d45eea108962334984b602204863",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Internal/FormatterATT.h",
+    "bytes": 8406,
+    "sha256": "1b83da02071d25ddf79eecc6bfe215b6fc7f23e9bc89cfea2c3ae6532f261ead",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Internal/FormatterBase.h",
+    "bytes": 13304,
+    "sha256": "e18706e5739ee2616f808a36a306cf2697277db7d7695515d533f78cc52a796a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Internal/FormatterIntel.h",
+    "bytes": 12599,
+    "sha256": "b35b78be56a5573da488377d5792ba4863ba4f78437d252a4147a4293a2ee3f7",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Internal/SharedData.h",
+    "bytes": 33657,
+    "sha256": "6dcb56a670d85675150e8406d739bcf3db38127381145a133c6c9dcc173d3dfd",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Internal/String.h",
+    "bytes": 17871,
+    "sha256": "644e83e7f0ede16b320f23715ac8fb72712b8104910924f8fc49bce43988a26c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/MetaInfo.h",
+    "bytes": 3283,
+    "sha256": "09521d7796328389fd4319a581e7038a62e1e7f792febcb65e70215007fd83f8",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Mnemonic.h",
+    "bytes": 3208,
+    "sha256": "e8d5c91c8bec1e65d0c05e553666d0ff2249ec9b7c84cd92023111922b0a4bec",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Register.h",
+    "bytes": 9984,
+    "sha256": "cebe745ea793c1a65017cf2553fe09dc074a9ea85223817c9e976ad8ac74cda1",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/SharedTypes.h",
+    "bytes": 17228,
+    "sha256": "44d2998a6c9ac99483be344a7960c455dcfbedb269b80e77dc1889465a219c42",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/ShortString.h",
+    "bytes": 3275,
+    "sha256": "fbd3b02a70128999a8a035d899a5747e023f24d8aee40cd14be4aa1c43c91a21",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Status.h",
+    "bytes": 5944,
+    "sha256": "ad3b9a13025f5bf863a908c02d923a1c13f2aa1fbc082c00a28a199ca4d7f483",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Utils.h",
+    "bytes": 10244,
+    "sha256": "4f01d5b3c91a9f03b04e3340ec01ed6382d9ef1e195a4e8340f77cab41d458b7",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/Zydis/Zydis.h",
+    "bytes": 5825,
+    "sha256": "18532b4f3f28900baa65a9a9cb7e7c1af2a1442afc917ff183437d98cb08ab39",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/ZydisExportConfig.h",
+    "bytes": 860,
+    "sha256": "9fdaac14f6c37cc3cfdb1af9ac69e6b111ec9324f4f7bb84c77760e0daa9a7d2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/asmjit.h",
+    "bytes": 1309,
+    "sha256": "84ce0a77e454c201d8a56ac386f53d9df34c76728b43764aeaa9210446766fa2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/api-config.h",
+    "bytes": 19845,
+    "sha256": "c07986c6eae4f8bbcbe91d4cb06d334399ef27eb182ca5ef4619bad80ef9bdaf",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/archcommons.h",
+    "bytes": 6724,
+    "sha256": "49100384462d93bb6cb7800cc2d31268242d44295e928d8db6fe66205c83c55b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/archtraits.h",
+    "bytes": 7056,
+    "sha256": "6ec3ead85abf0eef90f8c7fdd12c24737c1db69590efbe7cef9c830d1b7a0706",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/assembler.h",
+    "bytes": 5251,
+    "sha256": "414c3cbb07af69a1a4ebc749d48b737302e465a8e578d9514b46741091eacf34",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/builder.h",
+    "bytes": 49462,
+    "sha256": "38068dfa967c804ed98d2c66bc6cfae483269a43dd15b0b20de630f4a21ab66c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/codebuffer.h",
+    "bytes": 4034,
+    "sha256": "bff9dd52b0d65d89325ed94a3e06714b74f462e9dcfb0b747f944d845cc463a8",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/codeholder.h",
+    "bytes": 41269,
+    "sha256": "b13a0e49ba6d6d0d571e1bbc2ccb751738cb2b317fee79ab0aa1de2749c87c3d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/compiler.h",
+    "bytes": 28228,
+    "sha256": "bf1642d2025fa986b89821136aa54243e00d9de217422c4ea690765020d07286",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/compilerdefs.h",
+    "bytes": 6640,
+    "sha256": "6081a5661b8a382dfe7da950dc8fc410f82d9fe525fcf2cff1abf30dd3a60069",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/constpool.h",
+    "bytes": 7234,
+    "sha256": "0c8a18236a137da6491e8e94a809688998e7c205917829f76210b1ef3fffced0",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/cpuinfo.h",
+    "bytes": 5185,
+    "sha256": "5b495cfcb01949fc93d4cf8aa4a2b5439ffde17cf62ab8335791aaf23aec6fe8",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/datatypes.h",
+    "bytes": 31277,
+    "sha256": "8abe3f385db3156e62b55eba218e2249f4de14e52ac1cc24fd9cca9888b0be61",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/emitter.h",
+    "bytes": 31171,
+    "sha256": "9d2a0f199f09788278a7e03393f70ff1e70302541ce2a8ec7dad8fb3451d22f6",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/environment.h",
+    "bytes": 20304,
+    "sha256": "e52b5224f1253018c0bc12d9b7745ce505a383b398ebd24a165e648fce144b76",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/errorhandler.h",
+    "bytes": 9454,
+    "sha256": "fae49b247c81ff5e3c5d753238485480617a40581b6469f7ef460e3d02b4427d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/features.h",
+    "bytes": 5615,
+    "sha256": "b9b8815cc99a3af0e641ad403c2d6e7b5dd17d1b4829d54422ef8d89b2e01425",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/formatter.h",
+    "bytes": 8344,
+    "sha256": "68b813e3279c726426dda2d07e27ee68fb4da783e9ec68b53a584a2fe394e999",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/func.h",
+    "bytes": 59079,
+    "sha256": "c8feda2ad0efa138fb5f64a613883d0d0783b346f78615ea5ff76dfbcdb8e693",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/globals.h",
+    "bytes": 15930,
+    "sha256": "144ad0de27525f03b94f753776888979ee288827d44f29061ffd8847032a0527",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/inst.h",
+    "bytes": 21904,
+    "sha256": "290552c0fa36f6598dacc6a6d1ce83c2a03bc1e52b57b5d54d5df1a2e76277c5",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/jitallocator.h",
+    "bytes": 10839,
+    "sha256": "b0a4e9aaea7cb49c3dff8cd949ce64eb1c5cbfe0b4a630fae6b850ebc99a6d08",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/jitruntime.h",
+    "bytes": 4225,
+    "sha256": "2039287e30e01111d7a3ad0bb5ca6fffbc05c7b98545355ff5b82664ea809b9a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/logger.h",
+    "bytes": 7865,
+    "sha256": "12490200d94d813e2e6473d67aadb4872768adad2afa88093385068b8c10f6b8",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/operand.h",
+    "bytes": 63616,
+    "sha256": "afac400b306d80cf44cbf83208fa28bcadc58fabe3ed25d9988002b9e1752469",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/osutils.h",
+    "bytes": 2597,
+    "sha256": "a747d6b3164d57c108a5abfbb260b52d69246db61f2fb32d6cfd17aa1cc16e8e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/string.h",
+    "bytes": 13351,
+    "sha256": "4abe85cc4eb1def941b2e5e5e96f44baae4a5d94570d0158159cc3912df8e6df",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/support.h",
+    "bytes": 67263,
+    "sha256": "c3f72820379e883e1441b0215e2be3978967589587f7c38f9286ee5d4b673347",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/target.h",
+    "bytes": 6160,
+    "sha256": "a0c1e4b31beaa8edc697bdc75244aaa265ca6d71ffe97922380bd2f5b042565d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/type.h",
+    "bytes": 13551,
+    "sha256": "98ed33677cdaefe6f08d6ca7379bccaee361ce7806a7cf223cdec06350c5f116",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/virtmem.h",
+    "bytes": 5805,
+    "sha256": "1a6f91013575133cd8bcbcbe340b85ea3ef655654948e04d7e0a7acdd3cdcc03",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zone.h",
+    "bytes": 21844,
+    "sha256": "6838b64f64c90aef7e8d5e6defe0da0f2ff9d3809168963b17a7b349ea438d3a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zonehash.h",
+    "bytes": 6625,
+    "sha256": "2309cfaa13b248518d0ba9991d8e351f61a05260fba9b774b243e4389a0e783d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zonelist.h",
+    "bytes": 5613,
+    "sha256": "cb03bd5a417e4c072cac0179b491825f7fd437758d79bfb9ce3a72614d5a833b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zonestack.h",
+    "bytes": 7161,
+    "sha256": "6f129bc7219eb0af710744fe12717328ce2aef0e1e0f8eb376debec54654fcfe",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zonestring.h",
+    "bytes": 4359,
+    "sha256": "006a10db4703b319c1c9ff9c02f1f7d60335ccdfc4d500d2b990196dfdeaf823",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zonetree.h",
+    "bytes": 11816,
+    "sha256": "acca444bc85fa742c8d7ad059da63ff8ac88b833eafe80bd77dd4bd7e538444b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core/zonevector.h",
+    "bytes": 21913,
+    "sha256": "bd2fc0364d7582391cb89ed3002cd1f1739ac2d05a03bd51d96a733b7a1cb96e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/core.h",
+    "bytes": 92786,
+    "sha256": "e450a97f17bf811869926bd0b0f192555b90df1c55247047ac5db9e67b5d2b80",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86assembler.h",
+    "bytes": 30353,
+    "sha256": "02cb2168907187e417db73cb1f6abcf7ec38e77bac0c907d643aa7b2f04f4792",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86builder.h",
+    "bytes": 15025,
+    "sha256": "6d87aa1aeb21de2d2aa4d1846fe6258da2fee5b88a5affe13f86b716f3fed396",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86compiler.h",
+    "bytes": 29187,
+    "sha256": "731fc15e9c7072a21e26907c047da230d64248cc1d0365d7a4d98d038d115818",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86emitter.h",
+    "bytes": 294051,
+    "sha256": "4a451e771a859cf69fadc88877e33a4743ceccfef7ec34bacc5b00a885025590",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86features.h",
+    "bytes": 14468,
+    "sha256": "3c66bd2e84fe8aebad994d9cba2ca91bbfdf0d901b1f4f4e3204e8847cf40383",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86globals.h",
+    "bytes": 149664,
+    "sha256": "05f3dd5a93a6b36bd9edff3e205c99262b6d1d581b8988ed53b98754ebd18090",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86instdb.h",
+    "bytes": 25207,
+    "sha256": "8e1816161169ac43b7a9ff63e449996b068f9843c07f8a5a5b6c926290a049a9",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86/x86operand.h",
+    "bytes": 55533,
+    "sha256": "b6d5161ced36abb37ee327d642cc80606b9b607768b9d13fb4716b6fb7f5d256",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/asmjit/x86.h",
+    "bytes": 4986,
+    "sha256": "92d62630ce2beb81363f0a05694ed371ca515be6c7c45f109091f14712852327",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/arm.h",
+    "bytes": 18795,
+    "sha256": "de39ba5887cde236edc71b89d465c7cdef94acbc6d49e616c83eebdfa8e83d0c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/arm64.h",
+    "bytes": 28542,
+    "sha256": "27010446fbb7fa1fb83f13f0f11a454c27f6745ccb5392eee2260f98619b42cb",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/capstone.h",
+    "bytes": 29510,
+    "sha256": "1539f9f21e0026338a0f4e52d93f31bb70401512a1ef8640664e1e17a311b2d9",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/evm.h",
+    "bytes": 4386,
+    "sha256": "a1c3c7b60cc16aa86e2c65c6d8828732c8411f281b7f5d201d3aa7c66992e6ae",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/m680x.h",
+    "bytes": 12320,
+    "sha256": "9519114f0d8e135cfbaf002241003379ab10f0032038e4b3037f2322bf98d36c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/m68k.h",
+    "bytes": 13855,
+    "sha256": "32607173d111275db709a6767afd12174e6f0226987f8c68417d71a4bcf14da3",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/mips.h",
+    "bytes": 17044,
+    "sha256": "4bcc849f09b2c7de2b12432f000ba0a54bfb86b1578da1c0f6ede103053dae80",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/platform.h",
+    "bytes": 4010,
+    "sha256": "17ff832b57b85647368860c16ec31ae789e73aaac182fc5a9d3c2ebe8fbea568",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/ppc.h",
+    "bytes": 25638,
+    "sha256": "4c385a52279bf222c998c0ab70cc02b71d4e3b48669e12faecb5ef8c3756bb05",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/sparc.h",
+    "bytes": 11297,
+    "sha256": "b29a038902ee34715afb8357e1a2231e3f4b1a3dab81ad5bd2f336a18f7bfe4b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/systemz.h",
+    "bytes": 14335,
+    "sha256": "a056123649ce5d5ace4062310b177236197a6d0b2c3cea71dbbb651258026752",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/tms320c64x.h",
+    "bytes": 8262,
+    "sha256": "77823afade264ff04c7dc8d0f266448a1112e51035c93cb6abd6fa444d7beced",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/x86.h",
+    "bytes": 42841,
+    "sha256": "25978059125e97699345635b7719f24cfd2ed877f5e1e2eca2b3379d5ffde531",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/capstone/xcore.h",
+    "bytes": 4919,
+    "sha256": "c9fe593f51d4645321114b94cfa75307760a40769858334c8db5037efbb3ce44",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/json.hpp",
+    "bytes": 926233,
+    "sha256": "7804b38146921d03374549c9e2a5e3acda097814c43caf2b96a0278e58df26e0",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/ADisassembler.hpp",
+    "bytes": 5492,
+    "sha256": "78c3689b876b09d6275bcfca91f7e908f0084e95d4759b7bdfaf7b5c03199740",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/CapstoneDisassembler.hpp",
+    "bytes": 2029,
+    "sha256": "f8c0510f3e8b983ebed4b172694f2a0c255fe42cc3cd542a76f4b7d27d1df592",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Detour/ADetour.hpp",
+    "bytes": 9993,
+    "sha256": "ce3c7c9143a0deee7db49963a5fad0dcd8072f5d519d6fd0cbacc63196516a7a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Detour/ILCallback.hpp",
+    "bytes": 2732,
+    "sha256": "5661210a2974ae902504004271828831ba31f611eea61dd9a93d2141159d43e5",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Detour/x64Detour.hpp",
+    "bytes": 1064,
+    "sha256": "c3bed1bc6ee3c04abf7a087b2ceb0a4c710d0222aaec8fe16abcd3646b88868f",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Detour/x86Detour.hpp",
+    "bytes": 949,
+    "sha256": "c93f7f396547b9fc96b3616ab95a42b592ce4dd031c01c41e67a2fd0d14633e7",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Enums.hpp",
+    "bytes": 1371,
+    "sha256": "6ff7808196a55bb7a23052efd818cf95a7cfea4b85444ad92e09c4bd9f895108",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/ErrorLog.hpp",
+    "bytes": 1021,
+    "sha256": "5038cefabad85aafc9a948ece91d10efe296da8e302703891db710e61123b11c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/EventDispatcher.hpp",
+    "bytes": 539,
+    "sha256": "3eb23c31eb2ac4bbb5dd1a098bb03a34a441ecf9a3078eb5fee7dcc11b5cbc89",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Exceptions/AVehHook.hpp",
+    "bytes": 2352,
+    "sha256": "76b4927b92880bc394e4b4d64ccfbead41fc521d3fc1cd1673e71bc49fbf30e1",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Exceptions/BreakPointHook.hpp",
+    "bytes": 768,
+    "sha256": "fb2bd37d3d0fa0b2d2dbe12d5f6206e8597488b92a4308917b580bb369d471c2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Exceptions/HWBreakPointHook.hpp",
+    "bytes": 830,
+    "sha256": "6d75c230dcc37c04e0bf3c13464e6c7bf8aa24a7917ab49c5e3ef64678bb3676",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/IHook.hpp",
+    "bytes": 4195,
+    "sha256": "503d45f39e281c8a3ac4dff1a1ba84d96fbbcc5ac748524e1da84b56f23d1088",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Instruction.hpp",
+    "bytes": 12790,
+    "sha256": "22420e3f772846402af278ef6c26c854dd4640973a3590289eb729ab120d2d7b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/MemAccessor.hpp",
+    "bytes": 1343,
+    "sha256": "eccf561362ba580cd62c88a707bc9858255a33c866237e842bc9a9a059d657d3",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/MemProtector.hpp",
+    "bytes": 1556,
+    "sha256": "d32deb6e2468f486d46f9558935301b3e4dad1bda142660bc314dab5a10b2232",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Misc.hpp",
+    "bytes": 4865,
+    "sha256": "cda82e5014b109255913f6e1b75797ea5628ea525c422ce4d727fe91168ba3ea",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/PE/EatHook.hpp",
+    "bytes": 1568,
+    "sha256": "388d8d9af644b6544d42c606fffae054786587ce7a99f91dc89786dcb8488c2d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/PE/IatHook.hpp",
+    "bytes": 1397,
+    "sha256": "ef55efddc8ac5d13ec5b40cedcf7c0d9eea28e905c4e581bc6c0a0e7e754cfce",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/PE/PEB.hpp",
+    "bytes": 5791,
+    "sha256": "9ae46784f6c24f63bc711c186ff8ea6a4e1954155f293d1bb7818dabd1edfa52",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/PageAllocator.hpp",
+    "bytes": 4510,
+    "sha256": "999650a526c4823845da0107c4f0741a715cd4f42164d2dbf7d1daa05408eb4a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/StackCanary.hpp",
+    "bytes": 173,
+    "sha256": "338bd49331b28c2e73a5c73786a1bb86a869255ed6efb17f4de18e7f4aa082c1",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/TestEffectTracker.hpp",
+    "bytes": 470,
+    "sha256": "ed848f0de8403418db5f6a8024a9185fe88df278483d7bf058903215ff2591c7",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/UID.hpp",
+    "bytes": 253,
+    "sha256": "b93997c3b63f74c37658e369727a240c1dc7c3b6d772e39ca3f5c36fbceb1c4c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Virtuals/VFuncSwapHook.hpp",
+    "bytes": 924,
+    "sha256": "7fa992eb8d4c8ff67337949fa85f2af48f6084f22d7712e3858237fc07e1c77c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/Virtuals/VTableSwapHook.hpp",
+    "bytes": 2155,
+    "sha256": "750deb2abce3163bb3c13a82018dc11f51c6c14658cc6cd4e081730b257bb926",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "include/polyhook2/ZydisDisassembler.hpp",
+    "bytes": 812,
+    "sha256": "5793a5dc6bf52c719335f5d1aeeb71a61221cffdb3f7d32eb986c4f7651edc6e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/PolyHook_2.lib",
+    "bytes": 15297880,
+    "sha256": "7a175d67682c78571ba73232d5bb7cb9e828f52ed731a6756b672cb486afadb6",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/Zycore.lib",
+    "bytes": 66182,
+    "sha256": "f67432524ab449b920792f8415bcec2a5a727df3dcd220ec2119795664787506",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/Zydis.lib",
+    "bytes": 866644,
+    "sha256": "dac3f4fa930e9ed3ffe3f303c150d450ad3de2360fe55635fb745bef8aef2991",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/asmjit.lib",
+    "bytes": 575830,
+    "sha256": "6afaf9c6be7866dbf9ab35ab2c9a36d3d03d3de08be3d7241718f6a4834df1ee",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/capstone.lib",
+    "bytes": 2038434,
+    "sha256": "75271618a7e35f14edb0f4893a59c2df0b6ff3647772323b78c7ed16d0aee471",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/ExeFile.cpp",
+    "bytes": 1095,
+    "sha256": "3f3f4ea8c121d5057944c232537ff228586301b3c799b2e96ab3f2b27d18916e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/ExeFile.h",
+    "bytes": 817,
+    "sha256": "7be3aa469f13a913db1d48be652bd31cc08c0add65ac70fcd759af68de865d27",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/ExeFile_WIN32.cpp",
+    "bytes": 2608,
+    "sha256": "ab689525db414d4a591fcd7d437debd039aab9cc9461ba8d70e09894bc0603f1",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/Handles.h",
+    "bytes": 992,
+    "sha256": "753a2cf6d0cd1de0388bd69a93cf12de518b4baa623c55af6227b1928b653b7e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/Memory.h",
+    "bytes": 2520,
+    "sha256": "ab471a6e6d86e818f0ce9b27925f5bb985cfbb19c0d7aefcc956182108b7056f",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/Memory_WIN32.cpp",
+    "bytes": 5170,
+    "sha256": "073475797153c562c0af42d079c52bab2a3b3c3b0c0edc91cd1c0fecb0c3b4d3",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/PatternScanner.cpp",
+    "bytes": 10423,
+    "sha256": "2bff165f71b36f033dba1a7397e1b9324cf7eb4035b1abd28f0ddf40ef5056fa",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "lib/hacklib/PatternScanner.h",
+    "bytes": 1960,
+    "sha256": "f7b8d027f8e45b86213f2395edc6a9d926d85ff57034109050be17f9c3bc02d7",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/asmjit.txt",
+    "bytes": 862,
+    "sha256": "a80880a56c0f7f1e8cf838544ff193d30e66dd562c117e07acba58c9063c62f9",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/capstone.txt",
+    "bytes": 1687,
+    "sha256": "65e9ed46a59976eda8f5bd1ea79a680dea38dd299c760bc9a8d87a764ef5029b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/hacklib.txt",
+    "bytes": 382,
+    "sha256": "b0a5999d61174d86815ad895a4ad23c0cb78b882c17e3f5a8802a10d15edaed0",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/json.txt",
+    "bytes": 1404,
+    "sha256": "1afde928f1a24c82b28f3e7c82eeb8fde6b8423867bd6df66d30dbac9b8e5850",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/polyhook2.txt",
+    "bytes": 1071,
+    "sha256": "c0dc0c2a852d986cd736c8bc12f45bf7062179fd84bce5154cfacf1cca228aec",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "licenses/zydis.txt",
+    "bytes": 1122,
+    "sha256": "5bdf8c279bd02034079cad434fa4a411aea383426c96d2dc8bc9732cdd448ddb",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "readme.md",
+    "bytes": 1144,
+    "sha256": "cc473e05f5e3e4899db93e5a923dc393d397da4041d1a502b5193459b2af5d02",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "resource.rc.in",
+    "bytes": 558,
+    "sha256": "9df4e898a80f5a6a88e1915334085f6baa6f0deae269f506a961c470b5714ef1",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/BitmapImage.h",
+    "bytes": 1784,
+    "sha256": "13b1b713d8415700aca4a723d5fac7d0c526badb55ea4e0e93ee0ab08131978d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/BitmapTextbox.cpp",
+    "bytes": 1658,
+    "sha256": "f8a9dcbed9e736cc492c704422e13d2768aa5c6bb14156d21f1ffc263226a40c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/BitmapTextbox.h",
+    "bytes": 2434,
+    "sha256": "8b5af0f60624c2c09f18b04a0ec0f77c5db00df222aab073cd99d56912924135",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Chat.cpp",
+    "bytes": 4592,
+    "sha256": "acbd4fcbb703c46dcd706468a8ae31380c99aee5f60eb0c9edeb31591d032f1b",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Chat.h",
+    "bytes": 675,
+    "sha256": "5fa0fc139373582b193a129db1c6136cbe41f5da9532278c4b9653e2be27c8e2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Config.cpp",
+    "bytes": 4463,
+    "sha256": "ebdca7190c999e915e0d0483504c3d0b28fa8c5e2743317a7d9f1ea09f32a200",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Config.h",
+    "bytes": 1422,
+    "sha256": "c27221138b66d770a8258e7581ef825e4b39856f3624852935bead5b322b5f5d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Constants.h",
+    "bytes": 3126,
+    "sha256": "9dd19d8db64ffbdd5dd4bf85e36463347e8f3c7fc3092bd23036f7478076f59e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Debugf.h",
+    "bytes": 175,
+    "sha256": "da377bbb1f9f1b0f77977061f966f15c658d29b2c7cedfb8471fe560fdc9abc4",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Hooks.cpp",
+    "bytes": 7001,
+    "sha256": "db766e90a59b78eb71a827e2d43a52db200738a69c44f830375194d1dbb83984",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Hooks.h",
+    "bytes": 2781,
+    "sha256": "23b3e3526c542f8501879e6b247bc58cc87a15f689c3b0fc9143b48f75985d64",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/LobbyScrambler.cpp",
+    "bytes": 2895,
+    "sha256": "c3c3beba788e1c3ad3ee4ce3e6cdb786895e800864d54b053400596f0f02f89f",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/LobbyScrambler.h",
+    "bytes": 646,
+    "sha256": "4bcbee4586ef36fd1ef910ad52590ed52957b4e3e47c8e91eac5a87acc57e95a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Utils.cpp",
+    "bytes": 3411,
+    "sha256": "6612beb768dc2164fde69b6f2b5ebaeeb2a0f2cd9f9b018cf9932403f27b78d4",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/Utils.h",
+    "bytes": 684,
+    "sha256": "36f823b3df3c7467bbf6fe7ef21340824e558f0c481f10e1c08bac0f8c9fe5a2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/W2App.cpp",
+    "bytes": 3855,
+    "sha256": "fde3019a73e4cfa06e4147329de71b6d318230e7f97fae2e500680d70d2d4cc2",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/W2App.h",
+    "bytes": 1291,
+    "sha256": "84b149f40933bc8402594d3f69883f90ceadfdc693775e1ff4ad53bda7299f1d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/dllmain.cpp",
+    "bytes": 1854,
+    "sha256": "99cc29a1962c832907bc96cb9ee3dfa238e8d867e124c6b60587d6b498055670",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CGameTask.h",
+    "bytes": 1771,
+    "sha256": "af832bd73e4bc3f254d1e4e9d98a15a0133dc40091c684b88e7a9c04b7dc1469",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CList.h",
+    "bytes": 2571,
+    "sha256": "2af47f08b7b04ced144ae4217a3ccb21b62f4a44d6cf451bca2f2fd1cd107a66",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CTask.h",
+    "bytes": 957,
+    "sha256": "861f7c63c170dc91af1aee0e694dfee17145f5ff1cf23abfc98efb7587039d6d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CTaskTeam.cpp",
+    "bytes": 3277,
+    "sha256": "8c45e5bceef4f12804460e1229c515cf17356665f4c32d4d98d45c89885d431d",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CTaskTeam.h",
+    "bytes": 8019,
+    "sha256": "667487f6108bae0c334e16f1b5f7f2fc2535530e8ab4a15c65c3eb4b892f532a",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CTaskWorm.cpp",
+    "bytes": 2489,
+    "sha256": "802b9d1cdaca9125ebba335757456dc9bf1fcf6fd4afbac0ff972cd54fd97258",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "src/entities/CTaskWorm.h",
+    "bytes": 5811,
+    "sha256": "ab64823c166831fce6076939b958611ab5862b3396cf756ad6aeb80455555e17",
+    "archive_mode": "0o644",
+    "executable": false
+  }
+]
